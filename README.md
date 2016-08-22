@@ -25,4 +25,4 @@ topic:
 
 欢迎杭州周边的 Node.js 开发加入我们的微信群参与讨论(群已满,请扫描一下二维码添加芋头叔叔微信拉你进群,请注明:请求加入Nodejs群)
 
-![](http://htmljs.b0.upaiyun.com/uploads/1471878696216-59531fcc186e6b3793ef5bc6d716690e.JPG)
+![](./qrcode.jpg)

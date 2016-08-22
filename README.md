@@ -1,5 +1,7 @@
 # Hangzhou Node Party Slides And Pictures
 
+![](./logo.png)
+
 杭州 Node Party 是由大搜车(Souche.Inc)发起的一个面向 Nodejs 爱好者的技术分享聚会,希望能够构建一个持续的分享学习的平台,一起发展 Nodejs 生态.
 
 ## First Party

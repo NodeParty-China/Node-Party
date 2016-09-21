@@ -12,9 +12,9 @@ Time: 2016-08-07
 
 Topic:
 
- * 搜车 Node 进化史 - 芋头@大搜车
- * ORM 那些事儿 - 死月@大搜车
- * Node.js 日志监控方案和实践 - 佳男@大搜车
+ * 搜车 Node 进化史 - [芋头](https://github.com/xinyu198736)@大搜车
+ * ORM 那些事儿 - [死月](https://github.com/XadillaX)@大搜车
+ * Node.js 日志监控方案和实践 - [佳男](https://github.com/plusmancn)@大搜车
  
 ## Second Party
 

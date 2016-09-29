@@ -20,10 +20,10 @@ Topic:
 
 Time: 2016-09-25
 
-Topic: 
+Topic:
 
  * Node.js 错误处理相关话题 - [jysperm](https://github.com/jysperm)@LeanCloud
- * 创业团队撸 Node - [Scott](https://github.com/huanglong)@CampusRoo
+ * 创业团队撸 Node - [Scott](https://github.com/huanglong)@CampusRoom
  * Node.js 漫谈 - [Adoyle](https://github.com/adoyle-h)@Aliyun
 
 欢迎杭州周边的 Node.js 开发加入我们的微信群参与讨论（群已满，请扫描以下二维码添加芋头叔叔微信拉你进群，请注明：请求加入 Node.js 群）

@@ -5,6 +5,7 @@
 第一个话题为精子大大的《Node Error Handling》。
 
 [Slide 链接](./Node Error Handling.pdf)
+[文字版链接](https://jysperm.me/2016/10/nodejs-error-handling)
 
 第二个话题为慕课网上知名的 Scott 大犇，也是 CampusRoom 的技术负责人主讲，《创业团队撸 Node》。
 

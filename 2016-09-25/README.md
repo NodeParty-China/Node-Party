@@ -1,7 +1,8 @@
 本周末（9 月 25 日）下午 2 点到 5 点，第二届搜车 Node Party 成功举办。
 
 ### 关于杭州 Node Party
-![logo (1).png](//dn-cnode.qbox.me/FjgxnkWtbwPog29A14OQrzibMJLo)
+
+![](../logo.png)
 
 杭州 Node Party 是由大搜车（Souche Inc.）发起的一个面向 Node.js 爱好者的技术分享聚会，希望能够构建一个持续的分享学习的平台，一起发展 Node.js 生态。
 
@@ -46,6 +47,7 @@
 ### 加群
 
 另外,还是欢迎大家加入我们的微信群,参与讨论交流。群已满，请扫描以下二维码添加芋头叔叔微信拉你进群，请注明：公司职位以及请求加入 Node.js 群）
+
 ![](./qrcode.jpg)
 
 

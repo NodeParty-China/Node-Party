@@ -31,6 +31,7 @@
 主要讲述了在不同的编程模式下错误处理的一些方法和问题,另外跟大家探讨了应用中错误处理的最佳实践。
 
 [Slide 链接](./Node Error Handling.pdf)
+[文字版链接](https://jysperm.me/2016/10/nodejs-error-handling)
 
 第二个话题为慕课网上知名的 Scott 大犇，也是 CampusRoom 的技术负责人主讲，《创业团队撸 Node》。
 

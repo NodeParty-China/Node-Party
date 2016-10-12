@@ -19,7 +19,7 @@
 
 本次活动,我们创建了自己的公众号:杭NodeParty,可以通过 hz-nodeparty 搜索关注,也可以扫描以下二维码关注,会不定期推送相关资讯和活动信息。
 
-![http://htmljs.b0.upaiyun.com/uploads/1476240932963-8ea0a21ba9d4fc06aa8b7110ea04a3ef.jpg]()
+![](./qrcode-public.jpg)
 
 本次活动,报名90人,参与大概50多人,下次活动我们会尝试小额收费,杜绝报名后不参与的现象哈。
 
@@ -46,6 +46,6 @@
 ### 加群
 
 另外,还是欢迎大家加入我们的微信群,参与讨论交流。群已满，请扫描以下二维码添加芋头叔叔微信拉你进群，请注明：公司职位以及请求加入 Node.js 群）
-![qrcode (2).jpg](//dn-cnode.qbox.me/Fq5riw9NeftuWkMZnCcesbg5NAu9)
+![](./qrcode.jpg)
 
 

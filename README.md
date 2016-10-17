@@ -26,7 +26,7 @@ Topic:
  * 创业团队撸 Node - [Scott](https://github.com/huanglong)@CampusRoom
  * Node.js 漫谈 - [Adoyle](https://github.com/adoyle-h)@Aliyun
 
-## Third Party (计划中)
+## Third Party (报名中，http://www.bagevent.com/event/241948 )
 
 Time: 2016-10-22
 

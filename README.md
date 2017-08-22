@@ -8,7 +8,7 @@ Thanks for the design by Wangqi.
 
 与本活动关联的基金会见 [基金会文档](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation)
 
-## Forth Party
+## Fourth Party
 
 Time: 2017-08-19
 

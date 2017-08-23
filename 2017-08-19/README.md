@@ -42,7 +42,7 @@ NodeParty 开源基金会是一个新型的、纯公益性质的、开源的基�
 ## 本场分享 Slide
 
 * [TurboFan + Ignition](./TurboFan+Ignition.pdf)  @TimothyGu Nodejs 核心开发者
-* [数据可视化科普](./visualization_node_party.pdf) @小高 研究生，数据从业者
+* [数据可视化科普](./visualization_node_party.pdf) - [视频](https://www.bilibili.com/video/av13568635/) @[GeekPlux](https://github.com/geekplux) 数据可视化方向研究生
 * [Egg.js在阿里巴巴集团的的实践运用](./Egg.js在阿里巴巴集团的的实践运用.pdf) @庄少 天猫技术专家
 * [从0构建大规模nodejs应用](./从0构建大规模nodejs应用.pdf) @曾通 京东Nodejs开发
 

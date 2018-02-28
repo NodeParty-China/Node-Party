@@ -8,6 +8,19 @@ Thanks for the design by Wangqi.
 
 与本活动关联的基金会见 [基金会文档](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation)
 
+## Fifth Party
+
+Time: 2017-11-25
+
+总结: [杭州 NodeParty 第五期总结](./2017-11-25/README.md)
+
+Topics:
+
+- [通过GraphQL向RN透出实时报表](./2017-11-25/GraphQL-RN.pdf) Scott & 彭泽智 
+- [Node.js多线程实践](./2017-11-25/Threads-in-Nodejs.pdf) 刘亚中
+- [《STC vs PTC》](http://johnhax.net/2017/stc-vs-ptc ) 贺师俊
+- [Node.js在一家大数据服务创业公司的应用实践](./2017-11-25/Node.js在一家大数据服务创业公司的应用实践.pdf) 枫弦
+
 ## Fourth Party
 
 Time: 2017-08-19

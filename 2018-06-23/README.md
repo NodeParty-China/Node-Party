@@ -34,10 +34,11 @@
 
 ## 技术分享 PPT
 
-- [GraphQL的协同价值和前端工程师的职能变化](./GraphQL 数据聚合层大舅子解放前后端-Scott&陈锦辉.pdf) Scott & 陈锦辉
+- [GraphQL的协同价值和前端工程师的职能变化](./GraphQL数据聚合层大舅子解放前后端-Scott&陈锦辉.pdf) Scott & 陈锦辉
 - [一个来自凌晨四点的电话](./凌晨四点-七万.pdf) 七万
-- [基于Node.js的大数据服务化](./数澜基于Node.js的大数据服务化-寒毅) 寒毅
-- [大搜车 Node 生态和基建介绍](./搜车 Nodejs 现状-芋头&佳楠.pdf) 芋头 & 佳楠 
+- [ShadowNode](./Introducing-shadow-node-yorkie.pdf) Yorkie
+- [基于Node.js的大数据服务化](./数澜基于Node.js的大数据服务化-寒毅.pdf) 寒毅
+- [大搜车 Node 生态和基建介绍](./搜车Nodejs现状-芋头&佳楠.pdf) 芋头 & 佳楠 
 
 ## 活动总结
 - To be written（给枫弦点时间😆）

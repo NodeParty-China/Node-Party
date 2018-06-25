@@ -8,6 +8,21 @@ Thanks for the design by Wangqi.
 
 与本活动关联的基金会见 [基金会文档](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation)
 
+
+## Sixth Party
+
+Time: 2018-06-23
+
+总结: [杭州 NodeParty 第六期总结](./2018-06-23/README.md)
+
+Topics:
+
+- [GraphQL的协同价值和前端工程师的职能变化](./2018-06-23/GraphQL数据聚合层大舅子解放前后端-Scott&陈锦辉.pdf) Scott & 陈锦辉
+- [一个来自凌晨四点的电话](./2018-06-23/凌晨四点-七万.pdf) 七万
+- [ShadowNode](./2018-06-23/Introducing-shadow-node-yorkie.pdf) Yorkie
+- [基于Node.js的大数据服务化](./2018-06-23/数澜基于Node.js的大数据服务化-寒毅.pdf) 寒毅
+- [大搜车 Node 生态和基建介绍](./2018-06-23/搜车Nodejs现状-芋头&佳楠.pdf) 芋头 & 佳楠 
+
 ## Fifth Party
 
 Time: 2017-11-25

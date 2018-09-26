@@ -8,6 +8,19 @@ Thanks for the design by Wangqi.
 
 与本活动关联的基金会见 [基金会文档](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation)
 
+## Seventh Party
+
+Time: 2018-09-23
+
+总结: [杭州 NodeParty 第七期总结](./2018-09-23/README.md)
+
+Topics:
+
+- [DataHub2 - 你的最后一个 mock 方案](./2018-09-23/DataHub.pdf) 张宇恒(@zhangyuheng) 
+- 蚂蚁国际前端工程体系 徐达峰(@xudafeng)
+- [Node.js 微服务实践](./2018-09-23/Node.js 微服务实践.pdf) 高晓晨(@gxcsoccer) 
+- [GraphQL 生态介绍](./2018-09-23/GraphQL.pdf) 张开宇(@zhangkaiyulw)
+- [Megalo - 考拉的小程序解决方案](./2018-09-23/megalo-考拉的小程序解决方案.pdf) 吴子然
 
 ## Sixth Party
 

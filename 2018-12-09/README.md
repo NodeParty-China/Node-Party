@@ -69,7 +69,9 @@ Mesh 的背景介绍、在 Mesh 里用 JS 能做什么、内核介绍以及从�
 
 [Slide](./keynotes/4-intro-napi.pdf)
 
-**主讲人介绍** 吞吞/[@legendecas](https://github.com/legendecas)/ShadowNode Member/YodaOS TSC Member/语言爱好者/喜欢猫/不救公主只顾瞎逛炸鱼/Coder
+**主讲人介绍**
+
+吞吞/[@legendecas](https://github.com/legendecas)/ShadowNode Member/YodaOS TSC Member/语言爱好者/喜欢猫/不救公主只顾瞎逛炸鱼/Coder
 
 **内容**
 
@@ -84,7 +86,9 @@ Mesh 的背景介绍、在 Mesh 里用 JS 能做什么、内核介绍以及从�
 
 [Slide](./keynotes/5-intro-to-jarvis.pdf)
 
-主讲人介绍：陈传滨，一个热爱健身的前端，创业时期搞过 Java 后端，iOS 原生应用。现在专注于前端研发，喜欢制作自动化工具来提高工作效率，将单调的事情变得有意思。
+**主讲人介绍**
+
+陈传滨，一个热爱健身的前端，创业时期搞过 Java 后端，iOS 原生应用。现在专注于前端研发，喜欢制作自动化工具来提高工作效率，将单调的事情变得有意思。
 
 **内容**
 
@@ -103,13 +107,13 @@ Mesh 的背景介绍、在 Mesh 里用 JS 能做什么、内核介绍以及从�
 
 贺师俊，网名 [@hax](https://github.com/hax)，现就职于百姓网架构部；十多年来一直活跃在 Web 标准、前端开发和 JavaScript 社区，对 HTML 标准有微小的贡献。
 
-精通 JavaScript，早在 ES4 时代就通过 es-discuss 邮件列表参与标准讨论并提交 issue，近年来则通过 GitHub 关注了几乎所有 ECMAScript 新草案的进展和讨论。尤其是最近富有争议的 Optional chaining 和 Class fields 提案，深度参与了讨论。Hax 给 Babel、ESLint、Webpack 等多个 JS 生态中的重要项目提交过 issue 和 pull request，写过多个针对 ES 新特性的 Babel 转换插件，并是 Atom 编辑器 js-refactor 插件的维护者。Hax 做过大量 JavaScript 相关的分享，包括题为「JavaScript — The World’s Best Programming Language」的演讲。
+精通 JavaScript，早在 ES4 时代就通过 [es-discuss][] 邮件列表参与标准讨论并提交 issue，近年来则通过 GitHub 关注了几乎所有 ECMAScript 新草案的进展和讨论。尤其是最近富有争议的 [optional chaining](https://github.com/tc39/proposal-optional-chaining) 和 [class fields](https://github.com/tc39/proposal-class-fields) 提案，深度参与了讨论。Hax 给 Babel、ESLint、Webpack 等多个 JavaScript 生态中的重要项目提交过 issue 和 pull request，写过多个针对 ES 新特性的 Babel 转换插件，并是 Atom 编辑器 js-refactor 插件的维护者。Hax 做过大量 JavaScript 相关的分享，包括题为「JavaScript — The World’s Best Programming Language」的演讲。
 
 **内容**
 
-早在去年7月，[tc39][] 已经批准 Class field 提案到达 Stage 3，但浏览器厂商一直没有实现该提案，Babel 也只实现了 Public field 而没有实现 Private field。其中一个原因也许是因为争议性的 “#priv” 语法。最近，Babel 7 和 Chrome 终于实现了该提案，但是争议并没有因此停止。自从 ES Harmony 以来，我们还是第一次见到如此激烈的分歧。
+早在去年7月，[tc39][] 已经批准 class field 提案到达 Stage 3，但浏览器厂商一直没有实现该提案，Babel 也只实现了 public field 而没有实现 private field。其中一个原因也许是因为争议性的 “#priv” 语法。最近，Babel 7 和 Chrome 终于实现了该提案，但是争议并没有因此停止。自从 ES Harmony 以来，我们还是第一次见到如此激烈的分歧。
 
-作为中国JS社区的活跃分子，我通常都是向大家介绍 JS 新特性如何能更好的帮助我们开发者；我很不情愿将提案讨论中的争议性内容作为话题呈现给开发者，因为这对我们开发者来说没有什么意义，也并不能帮助 [tc39][] 解决争议，还影响“和谐”。但是作为本次争议提案的反对者之一，我认为形势已经非常严峻 —— 这份提案已经接近 Stage 4，也就是正式标准；同时 [tc39][] 最近的会议也已经拒绝所有的竞争提案，并决议停止寻求其他替代性方案；引擎厂商也即将实现和默认开启该特性。当使用该新特性的代码进入 production 环境，就意味着再也没有回头路。它很可能会成为 JS 永远无法摆脱的新的 “Bad Part”。而且本提案涉及语言的核心设施之一 class，影响烈度并非其他局部特性可比，我认为可能影响整个 JavaScript 生态。因此，我不得不将这场争议呈现给社区：
+作为中国 JS 社区的活跃分子，我通常都是向大家介绍 JS 新特性如何能更好的帮助我们开发者；我很不情愿将提案讨论中的争议性内容作为话题呈现给开发者，因为这对我们开发者来说没有什么意义，也并不能帮助 [tc39][] 解决争议，还影响“和谐”。但是作为本次争议提案的反对者之一，我认为形势已经非常严峻 —— 这份提案已经接近 Stage 4，也就是正式标准；同时 [tc39][] 最近的会议也已经拒绝所有的竞争提案，并决议停止寻求其他替代性方案；引擎厂商也即将实现和默认开启该特性。当使用该新特性的代码进入 production 环境，就意味着再也没有回头路。它很可能会成为 JS 永远无法摆脱的新的 “Bad Part”。而且本提案涉及语言的核心设施之一 class，影响烈度并非其他局部特性可比，我认为可能影响整个 JavaScript 生态。因此，我不得不将这场争议呈现给社区：
 
 * 无论是寻求更广泛的社区反馈以提交给 [tc39][] 和引擎厂商，还是说在最坏的情况下，让开发者做好准备;
 * 至少我已经尽力了；
@@ -133,3 +137,4 @@ Mesh 的背景介绍、在 Mesh 里用 JS 能做什么、内核介绍以及从�
 ![9.jpg](9.JPG)
 
 [tc39]: https://github.com/tc39
+[es-discuss]: https://esdiscuss.org/

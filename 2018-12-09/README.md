@@ -13,7 +13,7 @@
 
 ### 《Mesh: 来一起用 JavaScript 开发无人机应用》
 
-[Slide](./keynotes/1-intro-to-mesh.pdf)
+[Slide](./keynotes/1-intro-to-mesh.pdf) | [YouTube](https://www.youtube.com/watch?v=QiN3tChXECM)
 
 **主讲人介绍**
 
@@ -27,7 +27,7 @@ Mesh 的背景介绍、在 Mesh 里用 JS 能做什么、内核介绍以及从�
 
 ### 《一个应该了解的 ORM 库》
 
-[Slide](./keynotes/2-intro-to-orm-library.pdf)
+[Slide](./keynotes/2-intro-to-orm-library.pdf) | [YouTube](https://www.youtube.com/watch?v=qB227QR3LB0)
 
 **主讲人介绍**
 
@@ -44,7 +44,7 @@ Mesh 的背景介绍、在 Mesh 里用 JS 能做什么、内核介绍以及从�
 
 ### 《如何基于 Egg/React 设计企业级的前后端 Framework》
 
-[Slide](./keynotes/3-eggjs-with-react.pdf)
+[Slide](./keynotes/3-eggjs-with-react.pdf) | [YouTube](https://www.youtube.com/watch?v=qif3KkwuVlI)
 
 **主讲人介绍**
 
@@ -67,7 +67,7 @@ Mesh 的背景介绍、在 Mesh 里用 JS 能做什么、内核介绍以及从�
 
 ### 《N-API: 下一代 Node.js Native Module API》
 
-[Slide](./keynotes/4-intro-napi.pdf)
+[Slide](./keynotes/4-intro-napi.pdf) | [YouTube](https://www.youtube.com/watch?v=9RbG868oquk)
 
 **主讲人介绍**
 
@@ -84,7 +84,7 @@ Mesh 的背景介绍、在 Mesh 里用 JS 能做什么、内核介绍以及从�
 
 ### 《Jarvis——前后端对接解决方案》
 
-[Slide](./keynotes/5-intro-to-jarvis.pdf)
+[Slide](./keynotes/5-intro-to-jarvis.pdf) | [YouTube](https://www.youtube.com/watch?v=pqykVqNs-Mw)
 
 **主讲人介绍**
 
@@ -101,7 +101,7 @@ Mesh 的背景介绍、在 Mesh 里用 JS 能做什么、内核介绍以及从�
 
 ### 《关于 class field 的神秘话题》
 
-> Slide 暂缺
+[YouTube](https://www.youtube.com/watch?v=WDsEvlXE-BE)
 
 **主讲人介绍**
 

@@ -1,12 +1,14 @@
-# Hangzhou Node Party Slides And Pictures
+# 关于『NodeParty 中国』
 
 ![](./logo.png)
 
 Thanks for the design by Wangqi. 
 
-杭州 Node Party 是由大搜车（Souche Inc.）发起的一个面向 Node.js 爱好者的技术分享聚会，希望能够构建一个持续的分享学习的平台，一起发展 Node.js 生态。
+『NodeParty 中国』是一个面向 Node.js 爱好者的社区组织，希望能够构建一个持续的分享学习的平台，一起发展 Node.js 生态。
 
 与本活动关联的基金会见 [基金会文档](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation)
+
+# 线下分享会记录
 
 ## Eighth Party
 

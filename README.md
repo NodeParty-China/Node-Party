@@ -109,6 +109,8 @@ Topics:
 * ORM 那些事儿 - [死月](https://github.com/XadillaX)@大搜车
 * Node.js 日志监控方案和实践 - [plusmancn](https://github.com/plusmancn)@大搜车
 
-欢迎杭州周边的 Node.js 开发加入我们的微信群参与讨论（群已满，请扫描以下二维码添加芋头叔叔微信拉你进群，请注明：nodeparty）
 
-![](./qrcode.jpg)
+> 本组织专用公众号 ID：nodeparty
+
+![](https://img.souche.com/test/9992d24960103eac8dccdfa373732f0d.jpg)
+

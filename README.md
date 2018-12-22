@@ -1,8 +1,10 @@
-# 关于『NodeParty 中国』
-
 ![](./logo.png)
 
 Thanks for the design by Wangqi. 
+
+# 关于『NodeParty 中国』
+
+
 
 『NodeParty 中国』是一个面向 Node.js 爱好者的社区组织，希望能够构建一个持续的分享学习的平台，一起发展 Node.js 生态。
 

@@ -8,7 +8,7 @@ Thanks for the design by Wangqi.
 
 『NodeParty 中国』是一个面向 Node.js 爱好者的社区组织，希望能够构建一个持续的分享学习的平台，一起发展 Node.js 生态。
 
-与本活动关联的基金会见 [基金会文档](https://github.com/Hangzhou-Node-Party/JS-OpenSource-Foundation)，我们的所有收入都会按照严格流程进入基金会，并将其用于促进社区发展。
+与本活动关联的基金会见 [基金会文档](https://github.com/NodeParty-China/Node-OpenSource-Foundation)，我们的所有收入都会按照严格流程进入基金会，并将其用于促进社区发展。
 
 # 线下分享会记录
 

@@ -20,7 +20,7 @@ Time: 2018-12-09
 
 - [Mesh: 来一起用 JavaScript 开发无人机应用](./2018-12-09/keynotes/1-intro-to-mesh.pdf) 刘哲轩
 - [一个应该了解的 ORM 库](./2018-12-09/keynotes/2-intro-to-orm-library.pdf) 李桑
-- [如何基于 Egg/React 设计企业级的前后端 Framework](./2018-12-09/keynotes/keynotes/3-eggjs-with-react.pdf) 陈锦辉 & 张伟林
+- [如何基于 Egg/React 设计企业级的前后端 Framework](./2018-12-09/keynotes/3-eggjs-with-react.pdf) 陈锦辉 & 张伟林
 - [N-API: 下一代 Node.js Native Module API](./2018-12-09/keynotes/4-intro-napi.pdf) [@legendecas](https://github.com/legendecas)
 - [Jarvis —— 前后端对接解决方案](./2018-12-09/keynotes/5-intro-to-jarvis.pdf) 陈传滨
 - 关于 class field 的神秘话题 [@hax](https://github.com/hax)

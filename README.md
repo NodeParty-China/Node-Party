@@ -1,4 +1,4 @@
-![](https://img.souche.com/test/e529f5d63ba019edb9d6ce2c19fab894.jpg)
+
 
 ![](./logo.png)
 

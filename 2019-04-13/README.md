@@ -17,8 +17,8 @@
 * 第二场：杨力，微店，《一套针对传统后端开发人员开箱即用的 Node EE 解决方案 Rockerjs》
 * 第三场：陈熙旻，Rokid，《性能优化指北：通用流程和方法》
 * 第四场：大猫（陈旭），中兴，《如何深深深度定制编译器才得以将编译时间从几十秒压缩到两三百毫秒？》
-* 闪电分享一：[Yoda OS](https://github.com/yodaos-project/yodaos)，一个属于 Node.js 社区的物联网操作系统。
-* 闪电分享二：[Scaffold Kit](https://github.com/zhangkaiyulw/scaffold-kit)，脚手架创建工具。
+* 闪电演讲一：Yoda OS，一个属于 Node.js 社区的物联网操作系统。
+* 闪电演讲二：Scaffold Kit，脚手架创建工具。
 
 ### 《Node 调用 dubbo 服务的探索与实践》
 讲师：应杲臻，贝贝集团
@@ -72,6 +72,12 @@
 大猫的团队，经过2年多时间打磨了 Awade —— 一个前后端一体化的在线可视化 Web 应用开发 IDE。提升 Awade 实时编译的速度，是他的奋斗的一个目标，也是他这次分享的主题。
 
 早期，他们尝试了浏览器发起请求，Node端通过Webpack的方式进行编译，但是最优情况整个编译过程也要2~4秒。对于可视化操作来讲，这是无法忍受的。于是，他们选择，在浏览器端，深度定制一个编译器。此次分享，包含了：Language Service Host 定制、Node能力转移到浏览器、依赖管理等方面。
+
+### 《闪电演讲》
+* Yoda OS：一个属于 Node.js 社区的物联网操作系统
+    * [Github](https://github.com/yodaos-project/yodaos) | [Slide](./slides/np9-sd1.pdf) | Video待上传
+* Scaffold Kit：脚手架创建工具
+    * [Github](https://github.com/zhangkaiyulw/scaffold-kit) | [Slide](./slides/np9-sd2.pdf) | Video待上传
 
 ---
 

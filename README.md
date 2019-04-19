@@ -13,6 +13,20 @@ Thanks for the design by Wangqi.
 与本活动关联的基金会见 [基金会文档](https://github.com/NodeParty-China/Node-OpenSource-Foundation)，我们的所有收入都会按照严格流程进入基金会，并将其用于促进社区发展。
 
 # 线下分享会记录
+## Nineth Party
+
+Time: 2019-04-13
+
+总结：[第九期杭州 NodeParty 回顾](./2019-04-13/README.md)
+
+本期分享，共有四场主题演讲及两个闪电演讲：
+
+* 第一场：应杲臻，贝贝集团，《Node 调用 dubbo 服务的探索与实践》[Slide](./2019-04-13/slides/np9-1.pdf)
+* 第二场：杨力，微店，《一套针对传统后端开发人员开箱即用的 Node EE 解决方案 Rockerjs》[Slide](./slides/np9-2.pdf)
+* 第三场：陈熙旻，Rokid，《性能优化指北：通用流程和方法》[Slide](./slides/np9-3.pdf)
+* 第四场：大猫（陈旭），中兴，《如何深深深度定制编译器才得以将编译时间从几十秒压缩到两三百毫秒？》[Slide](./slides/np9-4.pdf)
+* 闪电演讲一：Yoda OS，一个属于 Node.js 社区的物联网操作系统。[Slide](./slides/np9-sd1.pdf)
+* 闪电演讲二：Scaffold Kit，脚手架创建工具。[Slide](./slides/np9-sd2.pdf)
 
 ## Eighth Party
 

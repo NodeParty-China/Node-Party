@@ -8,6 +8,8 @@
 
 ### 开场
 
+[Video](https://www.bilibili.com/video/av50093139)
+
 芋头以“三弹”做为开场致辞。他讲到，Node.js 不是银弹，而且会因为生态还没有Java那么成熟，会是一个炸弹。Node Party 的一个意义，就是经验共享，让这个炸弹，变成为我所用的导弹。Node Party 我们会坚持走下去。
 
 ## 演讲主题
@@ -23,7 +25,7 @@
 ### 《Node 调用 dubbo 服务的探索与实践》
 讲师：应杲臻，贝贝集团
 
-[Slide](./slides/np9-1.pdf) | Video待上传
+[Slide](./slides/np9-1.pdf) | [Video](https://www.bilibili.com/video/av50103392)
 
 在Node.js的应用中，dubbo 使用在了 QPS 8k 的场景。那么，Node.js 中的 dubbo 使用，在贝贝集团，是怎么一路演进过来的呢？共有四次演进：
 * 尝试：Node作为消费方，单点直连Java提供的服务
@@ -39,7 +41,7 @@
 ### 《一套针对传统后端开发人员开箱即用的 Node EE 解决方案 Rockerjs》
 讲师：杨力，微店
 
-[Slide](./slides/np9-2.pdf) | Video待上传
+[Slide](./slides/np9-2.pdf) | [Video](https://www.bilibili.com/video/av50103796)
 
 为了满足业务的快速迭代需求，微店采用中台化的方案。而中台化的背后，需要一套完备的性能、追踪、调试等基础作为支撑。这为 Node.js 在微店的全栈化提供了土壤。
 
@@ -54,7 +56,7 @@
 ### 《性能优化指北：通用流程和方法》
 讲师：陈熙旻，Rokid
 
-[Slide](./slides/np9-3.pdf) | Video待上传
+[Slide](./slides/np9-3.pdf) | [Video](https://www.bilibili.com/video/av50103736)
 
 陈熙旻通过智能音箱唤醒的案例作为分享的开端，跟大家分享他在性能优化的方法论：
 * 问题分析：拿到问题，不是直接想着解决方案，而是先分析问题，明确问题出现的场景及调用链路。
@@ -71,7 +73,7 @@
 ### 《如何深深深度定制编译器才得以将编译时间从几十秒压缩到两三百毫秒？》
 讲师：大猫（陈旭），中兴
 
-[Slide](./slides/np9-4.pdf) | Video待上传
+[Slide](./slides/np9-4.pdf) | [Video](https://www.bilibili.com/video/av50113434)
 
 大猫的团队，经过2年多时间打磨了 Awade —— 一个前后端一体化的在线可视化 Web 应用开发 IDE。提升 Awade 实时编译的速度，是他的奋斗的一个目标，也是他这次分享的主题。
 
@@ -79,15 +81,15 @@
 
 ### 《闪电演讲》
 * Yoda OS：一个属于 Node.js 社区的物联网操作系统
-    * [Github](https://github.com/yodaos-project/yodaos) | [Slide](./slides/np9-sd1.pdf) | Video待上传
+    * [Github](https://github.com/yodaos-project/yodaos) | [Slide](./slides/np9-sd1.pdf) | [Video](https://www.bilibili.com/video/av50098739)
 * Scaffold Kit：脚手架创建工具
-    * [Github](https://github.com/zhangkaiyulw/scaffold-kit) | [Slide](./slides/np9-sd2.pdf) | Video待上传
+    * [Github](https://github.com/zhangkaiyulw/scaffold-kit) | [Slide](./slides/np9-sd2.pdf) | [Video](https://www.bilibili.com/video/av50101148)
 
 ---
 
 ## 现场照片
 ![img](imgs/o1.JPG)
-开场白：芋头
+开场：芋头
 
 ![img](imgs/s1.jpeg)
 第一场：应杲臻

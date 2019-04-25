@@ -1,5 +1,5 @@
 
-[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors)
+[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors)
 
 ![](./logo.png)
 
@@ -138,7 +138,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore -->
-<table><tr><td align="center"><a href="https://github.com/EarlyH"><img src="https://avatars3.githubusercontent.com/u/1768041?v=4" width="100px;" alt="Early He"/><br /><sub><b>Early He</b></sub></a><br /><a href="https://github.com/NodeParty-China/Node-Party/commits?author=EarlyH" title="Documentation">📖</a></td><td align="center"><a href="https://github.com/yuzhigang33"><img src="https://avatars3.githubusercontent.com/u/929503?v=4" width="100px;" alt="枫弦"/><br /><sub><b>枫弦</b></sub></a><br /><a href="https://github.com/NodeParty-China/Node-Party/commits?author=yuzhigang33" title="Documentation">📖</a></td></tr></table>
+<table><tr><td align="center"><a href="https://github.com/EarlyH"><img src="https://avatars3.githubusercontent.com/u/1768041?v=4" width="100px;" alt="Early He"/><br /><sub><b>Early He</b></sub></a><br /><a href="https://github.com/NodeParty-China/Node-Party/commits?author=EarlyH" title="Documentation">📖</a></td><td align="center"><a href="https://github.com/yuzhigang33"><img src="https://avatars3.githubusercontent.com/u/929503?v=4" width="100px;" alt="枫弦"/><br /><sub><b>枫弦</b></sub></a><br /><a href="https://github.com/NodeParty-China/Node-Party/commits?author=yuzhigang33" title="Documentation">📖</a></td><td align="center"><a href="https://github.com/zivyangll"><img src="https://avatars1.githubusercontent.com/u/11460601?v=4" width="100px;" alt="zivyangll"/><br /><sub><b>zivyangll</b></sub></a><br /><a href="https://github.com/NodeParty-China/Node-Party/commits?author=zivyangll" title="Documentation">📖</a></td></tr></table>
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 

@@ -22,6 +22,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "geekplux",
+      "name": "GeekPlux",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/3816105?v=4",
+      "profile": "http://geekplux.com",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,

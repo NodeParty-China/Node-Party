@@ -1,0 +1,23 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "EarlyH",
+      "name": "Early He",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/1768041?v=4",
+      "profile": "https://github.com/EarlyH",
+      "contributions": [
+        "doc"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "Node-Party",
+  "projectOwner": "NodeParty-China",
+  "repoType": "github",
+  "repoHost": "https://github.com"
+}
